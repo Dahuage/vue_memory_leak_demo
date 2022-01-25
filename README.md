@@ -1,5 +1,5 @@
 # Vue memory leak demo
-一个demo展示vue以及我们前端项目为什么会内存泄漏
+a use case leads to Vue memory leak.
 
 ## Project setup
 ```
